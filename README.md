@@ -1,16 +1,21 @@
-## Hi there 👋
+# はじめまして、Udai Tanaka です 👋
 
-<!--
-**UdaiTanaka/UdaiTanaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 自己紹介
+- 💼 システムエンジニア（経験1.5年）
+- 📍 新潟県在住
+- 🔍 副業・フリーランス案件 随時受付中
+- 🌱 現在学習中：Python / Git
 
-Here are some ideas to get you started:
+## 🛠 スキル
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 得意なこと
+- 業務システムのテスト・デバッグ
+- SQL を使ったデータ抽出・集計
+- Excel VBA による業務自動化
+
+## 📫 お問い合わせ
+- Lancers: https://www.lancers.jp/profile/papas5656
